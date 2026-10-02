@@ -9,7 +9,7 @@ def raiz():   #esta função está vinculada a rota raiz e a rota /ola
 
 @app_rogerio.route('/contato')
 def contato():
-    return 'e-mail:mariela@ifro.edu.br'
+    return 'e-mail:rogerio.amorim1979@gmail.com'
 
 @app_rogerio.route('/rota2')
 def rota2():
